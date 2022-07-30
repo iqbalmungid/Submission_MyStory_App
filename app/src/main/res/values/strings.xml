@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">My Story</string>
+    <string name="app_title">My Story App</string>
+    <string name="app_dev">Iqbal Mungid</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signin">Sign In</string>
+    <string name="signup">Sign Up</string>
+    <string name="camera">Camera</string>
+    <string name="close_btn">Close Button</string>
+    <string name="capture_btn">Capture Button</string>
+    <string name="switch_btn">Switch Button</string>
+    <string name="gallery">Gallery</string>
+    <string name="desc">Description</string>
+    <string name="upload">Upload</string>
+    <string name="or">Or</string>
+    <string name="loading">Now Loading</string>
+    <string name="fill">Fill the blank first</string>
+    <string name="welcome">Welcome to My Story apps</string>
+    <string name="msg_fill">Fill the blank to use app:</string>
+
+
+    <string name="bg_story">Background Story</string>
+    <string name="img_story">Image Story</string>
+    <string name="time">Create at</string>
+    <string name="img_logo">Image logo</string>
+    <string name="img_pp">Profile Picture</string>
+
+    <string name="retry">Try Again</string>
+    <string name="location_find">Location detected</string>
+    <string name="error_location">Location not found</string>
+    <string name="error_email">Email not valid</string>
+    <string name="error_pass">Password is missing</string>
+    <string name="error_name">Name is empty</string>
+    <string name="info">Information</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="login_success">Login Success</string>
+    <string name="logout_failed">Logout Failed</string>
+    <string name="logout_success">Logout Success</string>
+    <string name="reg_failed">Register Failed</string>
+    <string name="reg_success">Register Success</string>
+    <string name="next">Continue</string>
+    <string name="capture_failed">Capture image failed</string>
+    <string name="camera_error">Camera is error</string>
+    <string name="camera_perm_error">Camera permission is error</string>
+    <string name="desc_empty">Description is empty</string>
+
+    <string name="gmaps_api">AIzaSyDR2XClPQuUmD2lN8IJgZfrZ8QhkP1NuUI</string>
+
+    <string name="img_failed">Please insert or capture a image</string>
+    <string name="post_failed">Story post failed</string>
+    <string name="post_success">Story post success</string>
+    <string name="choose_img">Choose a picture</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+</resources>

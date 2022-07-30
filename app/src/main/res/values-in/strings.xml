@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Story</string>
+    <string name="app_title">My Story App</string>
+    <string name="app_dev">Iqbal Mungid</string>
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="signin">Masuk</string>
+    <string name="signup">Daftar</string>
+    <string name="camera">Kamera</string>
+    <string name="close_btn">Tombol Tutup</string>
+    <string name="capture_btn">Capture Button</string>
+    <string name="switch_btn">Switch Button</string>
+    <string name="gallery">Galeri</string>
+    <string name="desc">Deskripsi</string>
+    <string name="upload">Unggah</string>
+    <string name="or">Atau</string>
+    <string name="loading">Sedang Memuat</string>
+    <string name="fill">Isi bidang kosong dahulu</string>
+    <string name="welcome">Selamat Datang di aplikasi My Story</string>
+    <string name="msg_fill">Isi bidang kosong untuk memulai aplikasi:</string>
+
+
+    <string name="bg_story">Background Story</string>
+    <string name="img_story">Image Story</string>
+    <string name="time">Create at</string>
+    <string name="img_logo">Image logo</string>
+    <string name="img_pp">Profile Picture</string>
+
+    <string name="error_email">Email belum benar</string>
+    <string name="error_pass">Kata sandi kurang</string>
+    <string name="error_name">Nama masih kosong</string>
+    <string name="info">Informasi</string>
+    <string name="login_failed">Gagal Masuk</string>
+    <string name="login_success">Masuk Sukses</string>
+    <string name="reg_failed">Gagal Daftar</string>
+    <string name="reg_success">Daftar Sukses</string>
+    <string name="next">Lanjutkan</string>
+    <string name="capture_failed">Gambar gagal ditangkap</string>
+    <string name="camera_error">Kamera bermasalah</string>
+    <string name="camera_perm_error">Ijin kamera bermasalah</string>
+
+
+    <string name="img_failed">Mohon masukan atau tangkap gambar</string>
+    <string name="post_failed">Posting Story gagal</string>
+    <string name="post_success">Posting Story Sukses</string>
+    <string name="choose_img">Pilih gambar</string>
+    <string name="logout_failed">Gagal Keluar</string>
+    <string name="logout_success">Keluar Sukses</string>
+    <string name="desc_empty">Deskripsi masih kosong</string>
+    <string name="gmaps_api">AIzaSyDR2XClPQuUmD2lN8IJgZfrZ8QhkP1NuUI</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="error_location">Lokasi tidak ditemukan</string>
+    <string name="appwidget_text">CONTOH</string>
+    <string name="add_widget">Tambah Widget</string>
+    <string name="app_widget_description">Ini adalah deskripsi widget</string>
+    <string name="location_find">Lokasi ditemukan</string>
+</resources>

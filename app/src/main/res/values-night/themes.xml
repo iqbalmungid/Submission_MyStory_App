@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MyStory" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/greywhite</item>
+        <item name="colorPrimaryVariant">@color/grey</item>
+        <item name="colorOnPrimary">@color/supergreywhite</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/greywhite</item>
+        <item name="colorSecondaryVariant">@color/grey</item>
+        <item name="colorOnSecondary">@color/supergreywhite</item>
+        <!--Statusbar color-->
+        <item name="android:statusBarColor" tools:targetApi="1">?attr/colorPrimary</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.MyStory_NoActionBar" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/greywhite</item>
+        <item name="colorPrimaryVariant">@color/grey</item>
+        <item name="colorOnPrimary">@color/supergreywhite</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/greywhite</item>
+        <item name="colorSecondaryVariant">@color/grey</item>
+        <item name="colorOnSecondary">@color/supergreywhite</item>
+        <!--Statusbar color-->
+        <item name="android:statusBarColor" tools:targetApi="1">?attr/colorPrimary</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
